@@ -19,4 +19,4 @@ Some bla bla instructions
 
 ## Copyright
 
-Copyfile text 
+Copyfile text check stash 
