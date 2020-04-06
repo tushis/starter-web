@@ -18,3 +18,5 @@ Purpose bla bla
 Some bla bla instructions
 
 ## Copyright
+
+Copyfile text 
