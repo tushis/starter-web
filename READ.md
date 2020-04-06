@@ -15,4 +15,6 @@ Purpose bla bla
 
 ## How
 
+Some bla bla instructions
+
 ## Copyright
