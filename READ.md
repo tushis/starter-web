@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple bla bla
+Simple bla bla and more 
 
 ## Introduction
 Rebase exapmle from nyfeature branch
